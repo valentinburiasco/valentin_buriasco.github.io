@@ -443,42 +443,42 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6C%65%78%61%6E%64%72%65.%63%68%61%75%73%73%61%72%64@%73%6F%72%62%6F%6E%6E%65-%75%6E%69%76%65%72%73%69%74%65.%66%72", "_blank");
+          window.open("mailto:%76%61%6C%65%6E%74%69%6E.%62%75%72%69%61%73%63%6F@%75%6E%69%76-%67%72%65%6E%6F%62%6C%65-%61%6C%70%65%73.%66%72", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/AlexandreChaussard", "_blank");
+          window.open("https://github.com/valentinburiasco", "_blank");
         },
       },{
         id: 'social-hal',
         title: 'HAL',
         section: 'Socials',
         handler: () => {
-          window.open("https://cv.hal.science/alexandre-chaussard", "_blank");
+          window.open("https://cv.hal.science/valentin-buriasco", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/alexandre-chaussard-1653621b6", "_blank");
+          window.open("https://www.linkedin.com/in/valentin-buriasco-548865205", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0009-0001-4561-3797", "_blank");
+          window.open("https://orcid.org/0009-0009-6929-9980", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=32yc2GMAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=", "_blank");
         },
       },{
       id: 'light-theme',
