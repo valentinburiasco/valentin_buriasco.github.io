@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. CNRS, Laboratoire de Probabilités, Statistique et Modélisation, LPSM, Sorbonne Université, F-75005 Paris, France.
+subtitle: <a href='#'>Affiliations</a>. UGA, Laboratoire des écoulements géophysiques et industriels, LEGI, UGA, France.
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>15-25 209</p>
-    <p>5 place Jussieu, 75005</p>
-    <p>Paris, France</p>
+    <p>1209 rue de la piscine, 38610</p>
+    <p>Gières, France</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,11 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my personal page! I am a PhD candidate in Machine Learning, currently affiliated with Sorbonne Université in Paris, under the supervision of [Sylvain Le Corff](https://sylvainlc.github.io/), [Anna Bonnet](https://annabonnet.github.io/) and [Harry Sokol](https://sites.google.com/site/harrysokol/home). 
-My work focuses on generative models for microbiome analysis, as thoroughly described on [theses.fr](https://theses.fr/s383410).
+Welcome to my personal page! I am a PhD candidate in Fluid Mechanic, currently affiliated with UGA in Grenoble, under the supervision of [Nathanaël Machicoane]() and [Rui Ni](). 
+My work focuses on bubble/droplet deformation and migration in homogeneous turbulent shear flow.
 
-My current research topics include:
-- Generative models
-- Variational inference
-- Microbiome analysis
-- Deep learning
+
