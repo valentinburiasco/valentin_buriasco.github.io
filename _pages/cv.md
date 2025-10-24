@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+
+**Engineering Degree** in Mechanical Engineering, Maritime Engineering, and Offshore Energy
+ENSTA Paris, Palaiseau, France | 2024
+
+**Master’s Degree** in WAPE (Water, Atmosphere, Pollution, Environment)
+Institut Polytechnique de Paris, Palaiseau, France | 2024
+
+**PhD Candidate** in Deformation and Migration of Bubbles in Shear-Driven Flows
+Université Grenoble Alpes, Grenoble, France & Johns Hopkins University, Baltimore, USA | 2028
+
+---
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: Research internship - Releasing a buoyant bubble stuck in a capillary tube
+  * EPFL - LFMI
+  * Supervisor: Dr Alice Marcotte & Dr François Gallaire
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2023: Research internship
+  * CEA - IRFU - DAp - LDE3
+  * Supervisor: Stéphane Mathis
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
@@ -54,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
